@@ -1,0 +1,24 @@
+{
+  "version": "1.0.0",
+  "releaseDate": "2026-09-02",
+  "mandatory": false,
+  "changelog": [
+    "🚀 Galeria de Mídia Local em alta qualidade (Fotos/Vídeos RAW/MP3/Cifras)",
+    "💬 Chat Multicanal com suporte a links (YouTube, Spotify, Cifras)",
+    "🛠️ Correção do botão flutuante no Android 14/15",
+    "🔄 Sistema de Atualização Automática Integrado"
+  ],
+  "platforms": {
+    "android": {
+      "version": "1.0.0",
+      "versionCode": 1,
+      "url": "https://github.com/andrefonn/walkiechurch-releases/releases/latest/download/app-debug.apk",
+      "fileName": "walkie-church-update.apk"
+    },
+    "windows": {
+      "version": "1.0.0",
+      "url": "https://github.com/andrefonn/walkiechurch-releases/releases/latest/download/Walkie-Church.exe",
+      "fileName": "Walkie-Church.exe"
+    }
+  }
+}
