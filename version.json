@@ -1,17 +1,17 @@
 {
-  "version": "1.1.0",
+  "version": "1.1.1",
   "releaseDate": "2026-09-06",
   "mandatory": false,
   "changelog": [
-    "🔧 Câmera agora funciona normalmente com o app ativo no grupo",
-    "🎧 Fone de ouvido (Bluetooth/cabo) roteado corretamente — sem sair no auto-falante",
-    "📤 Correção de erro ao enviar mídia na Galeria",
-    "⏱️ Upload de arquivos com timeout de 120s e mensagens de erro claras"
+    "🎧 Correção definitiva de roteamento para fones Bluetooth e com fio no Moto G30 e Android 11",
+    "📡 Detecção de headsets em tempo real via AudioDeviceCallback e hardware HAL",
+    "🔧 Câmera liberada para gravação sem travas durante uso do rádio",
+    "📤 Correção completa do envio de fotos/vídeos na Galeria com grupo geral"
   ],
   "platforms": {
     "android": {
-      "version": "1.1.0",
-      "versionCode": 2,
+      "version": "1.1.1",
+      "versionCode": 3,
       "url": "https://github.com/andrefonn/walkiechurch-releases/releases/latest/download/app-debug.apk",
       "fileName": "walkie-church-update.apk"
     },
