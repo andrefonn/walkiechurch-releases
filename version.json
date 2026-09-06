@@ -20,5 +20,13 @@
       "url": "https://github.com/andrefonn/walkiechurch-releases/releases/latest/download/Walkie-Church.exe",
       "fileName": "Walkie-Church.exe"
     }
+  },
+  "tools": {
+    "stabilizePro": {
+      "name": "Stabilize Pro",
+      "version": "1.0.0",
+      "url": "https://github.com/andrefonn/walkiechurch-releases/releases/latest/download/STABILIZE_PRO.apk",
+      "fileName": "STABILIZE_PRO.apk"
+    }
   }
 }
